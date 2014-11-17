@@ -1,69 +1,53 @@
-My Awesome App v0.0.0
-=====================
+Kata Bank OCR
+=============
 
-Cornelio generator is a flavored version of generator-webapp. Includes different packages and conventions.
+http://codingdojo.org/cgi-bin/index.pl?KataBankOCR
 
-### What is different form others?
-
-Cornelio's dependencies:
-
-* bootstrap
-* requirejs
-* modernizr
-* jquery
-* underscore-amd
-* backbone-amd
-* require-handlebars-plugin
-
-Cornelio's conventions:
-
-* two spaces indentation
-* src instead of app
-* buils instead of dist
-* devserver and gruntserver tasks
-
-## Install
-
-yeoman
+File
 ```
-npm install -g yo
-```
+ _  _  _  _  _  _  _  _  _
+| || || || || || || || || |
+|_||_||_||_||_||_||_||_||_|
 
-generator-cornelio
-```
-npm install -g generator-cornelio
-```
 
-## Usage
+  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |
+
+ _  _  _  _  _  _  _  _  _
+ _| _| _| _| _| _| _| _| _|
+|_ |_ |_ |_ |_ |_ |_ |_ |_
+
+ _  _  _  _  _  _  _  _  _
+ _| _| _| _| _| _| _| _| _|
+ _| _| _| _| _| _| _| _| _|
+
+
+|_||_||_||_||_||_||_||_||_|
+  |  |  |  |  |  |  |  |  |
+
+ _  _  _  _  _  _  _  _  _
+|_ |_ |_ |_ |_ |_ |_ |_ |_
+ _| _| _| _| _| _| _| _| _|
+
+ _  _  _  _  _  _  _  _  _
+|_ |_ |_ |_ |_ |_ |_ |_ |_
+|_||_||_||_||_||_||_||_||_|
+
+ _  _  _  _  _  _  _  _  _
+  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |
+
+ _  _  _  _  _  _  _  _  _
+|_||_||_||_||_||_||_||_||_|
+|_||_||_||_||_||_||_||_||_|
+
+ _  _  _  _  _  _  _  _  _
+|_||_||_||_||_||_||_||_||_|
+ _| _| _| _| _| _| _| _| _|
+
+    _  _     _  _  _  _  _
+  | _| _||_||_ |_   ||_||_|
+  ||_  _|  | _||_|  ||_| _|
+
 
 ```
-yo cornelio
-```
-
-## Included tasks
-
-Build
-```
-grunt build
-```
-
-tests
-```
-grunt tests
-```
-
-Dev Server
-```
-grunt devserver
-```
-
-Build Server
-```
-grunt buildserver
-```
-
-jshint
-```
-grunt jshint
-```
-
